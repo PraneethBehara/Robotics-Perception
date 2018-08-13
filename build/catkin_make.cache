@@ -1,0 +1,2 @@
+pcd_object_detection:sensor_stick
+-DCATKIN_DEVEL_PREFIX=/media/praneeth/Linux/Personal/ros_packages/perception_ws/devel -DCMAKE_INSTALL_PREFIX=/media/praneeth/Linux/Personal/ros_packages/perception_ws/install -G Unix Makefiles

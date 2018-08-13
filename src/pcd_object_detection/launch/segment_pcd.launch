@@ -1,0 +1,9 @@
+<launch>
+  <include file="$(find sensor_stick)/launch/robot_spawn.launch" />
+  
+  <node name="ransac_helper" pkg="pcd_object_detection" type="ransac_helper" respawn="false"
+    output="screen" />
+  <node name="euclidean_clustering" pkg="pcd_object_detection" type="euclidean_clustering" respawn="false"
+    output="screen" />
+    
+</launch>

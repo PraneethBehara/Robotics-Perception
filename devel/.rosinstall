@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /media/praneeth/Linux/Personal/ros_packages/perception_ws/devel/setup.sh

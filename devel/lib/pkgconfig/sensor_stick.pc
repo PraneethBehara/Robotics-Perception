@@ -1,0 +1,8 @@
+prefix=/media/praneeth/Linux/Personal/ros_packages/perception_ws/devel
+
+Name: sensor_stick
+Description: Description of sensor_stick
+Version: 0.0.0
+Cflags: -I/media/praneeth/Linux/Personal/ros_packages/perception_ws/devel/include
+Libs: -L/media/praneeth/Linux/Personal/ros_packages/perception_ws/devel/lib 
+Requires: 
